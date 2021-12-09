@@ -1,6 +1,6 @@
 
-😃 I’m Dilani, an Undergraduate,Dept. of Computer Science & Engineering,University of Moratuwa.
-💻 I was a Software Engineering Intern @Swissranks
+-😃 I’m Dilani, an Undergraduate,Dept. of Computer Science & Engineering,University of Moratuwa.
+-💻 I was a Software Engineering Intern @Swissranks
 🌱 I’m currently working on Driver Quality Parameter Extraction for Ride Hailing Services.
 📫 How to reach me: LinkedIn
 🐦 I am in Twitter: Twitter
